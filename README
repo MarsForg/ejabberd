@@ -14,7 +14,7 @@ Key Features
 
 - **Cross-platform**  
   ejabberd runs under Microsoft Windows and Unix-derived systems such as
-  Linux,  FreeBSD and NetBSD.
+  Linux, FreeBSD and NetBSD.
 
 - **Distributed**  
   You can run ejabberd on a cluster of machines and all of them will serve the
