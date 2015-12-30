@@ -3,10 +3,10 @@ ejabberd Community Edition [![Build Status](https://travis-ci.org/processone/eja
 
 ejabberd is a distributed, fault-tolerant technology that allows the creation
 of large-scale instant messaging applications. The server can reliably support
-thousands of simultaneous users on a single node and has been designed to
+thousands of simultaneous users on a single node and has been designed to 
 provide exceptional standards of fault tolerance. As an open source
 technology, based on industry-standards, ejabberd can be used to build bespoke
-solutions very cost effectively.
+solutions very cost effectively. 
 
 
 Key Features
@@ -14,7 +14,7 @@ Key Features
 
 - **Cross-platform**  
   ejabberd runs under Microsoft Windows and Unix-derived systems such as
-  Linux, FreeBSD and NetBSD.
+  Linux,  FreeBSD and NetBSD.
 
 - **Distributed**  
   You can run ejabberd on a cluster of machines and all of them will serve the
